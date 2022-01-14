@@ -9,7 +9,9 @@ Created with ❤️ by [@gncdev](https://twitter.com/gncdev)
 
 
 [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">](https://twitter.com/gncdev?ref_src=twsrc%5Etfw)
- 
+[<img alt="easyeda Follow" src="img/easyeda-logo.svg">](https://easyeda.com/giancarlobenavides)
+
+
  Engineer | Teacher | Researcher | Entrepreneur
 
 <!--
