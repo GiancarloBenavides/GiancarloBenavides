@@ -7,7 +7,7 @@
 ---
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">
  
- | Teacher | Researcher | Entrepreneur
+ Engineer | Teacher | Researcher | Entrepreneur
 
 <!--
 **GiancarloBenavides/GiancarloBenavides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
