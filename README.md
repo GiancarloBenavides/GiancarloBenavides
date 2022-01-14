@@ -11,12 +11,12 @@
 
 ---
 
-<p style="text-align:center">
+<p align="center">
 Created with ❤️ by <a href="https://twitter.com/gncdev">@gncdev</a>
 </p>
 
 ---
-<p style="text-align:center">
+<p align="center">
 Engineer | Teacher | Researcher | Entrepreneur
 </p>
 
