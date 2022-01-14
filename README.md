@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning web 3.0
 - 👯 I’m looking to collaborate on NovaTerra
 ---
-Created with ❤️ by <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">
+Created with ❤️ by [@gncdev](https://twitter.com/gncdev) 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">
  
  Engineer | Teacher | Researcher | Entrepreneur
 
