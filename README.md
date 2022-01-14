@@ -8,7 +8,7 @@
 Created with ❤️ by [@gncdev](https://twitter.com/gncdev)
 
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gncdev?style=social">](https://twitter.com/gncdev)
  
  Engineer | Teacher | Researcher | Entrepreneur
 
